@@ -1,1 +1,28 @@
 /* write your override styles here */
+body {
+  background: pink;
+  background-size: cover;
+}
+
+#wall {
+  position: relative;
+  margin: 40px auto;
+  width: 900px;
+  height: 700px;
+}
+
+
+.tag-1 {
+  
+  z-index: 6;
+  
+}
+
+
+
+div#wall #tag-3.slick {
+  background: url(../images/tag-3.png) no-repeat;
+  z-index: 8;
+  display: block;
+}
+
